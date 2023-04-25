@@ -16,9 +16,9 @@ https://shejaemeric.com/slplayer/#/
 Rwanda freelance hub : Website for freelancer to find jobs
 
 # Author
-DUSABE Peace
-SHEJA Lervy Emeric
-TETA Precious
+#### DUSABE Peace
+#### SHEJA Lervy Emeric
+#### TETA Precious
 
 # Usage
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
